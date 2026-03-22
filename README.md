@@ -1,4 +1,4 @@
-# AI for Math Fund 2025 winners — normalized affiliations
+# AI for Math Fund 2025 winners - affiliations
 
 Link to source of data: https://www.renaissancephilanthropy.org/ai-for-math-fund-projects
 
